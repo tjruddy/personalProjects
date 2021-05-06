@@ -1,0 +1,6 @@
+Hello, my name is Tristan Ruddy.
+
+In this repository, you will find some of my personal projects.
+Some will be small and simple codes, and some will be bigger projects.
+
+Thank you for stopping by!
