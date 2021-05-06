@@ -12,3 +12,5 @@ This is a simple Image Converter which converts an image file format. *Example s
 | ------ | ------------- | --------- |
 |  JPG   |    Low        |   Small   |
 |  PNG   |    Medium     |   Medium  |
+|  BMP   |    High       |   Big     |
+|  TIFF  |    High       |   Big     |
