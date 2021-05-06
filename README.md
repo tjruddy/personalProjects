@@ -6,7 +6,7 @@ This is a simple CLI Age Calculator which was created in Python.
 
 ## [Image Converter](https://github.com/tjruddy/personalProjects/tree/main/ImageConverter)
 This is a simple Python Image Converter which converts an image file format. *Example shown is JPG to PNG*.
-> [monkey.png](https://github.com/tjruddy/personalProjects/blob/main/ImageConverter/monkey.jpg)
+> [monkey.jpg](https://github.com/tjruddy/personalProjects/blob/main/ImageConverter/monkey.jpg)
 
 | Format | Color Display |   Size    |
 | ------ | ------------- | --------- |
